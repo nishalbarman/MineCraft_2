@@ -1,0 +1,9 @@
+{
+	"ip":"nishalbarman.aternos.me",
+	"port": 43106,
+	"name": "Nischal",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register (nishal) (nishal)",
+	"login-cmd":"/login (nishal)"
+}
