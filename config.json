@@ -3,5 +3,5 @@
 	"port": 43106,
 	"name": "Nischal",
 	"auto-night-skip":"true",
-	"login-enabled":"true"
+	"login-enabled":"false"
 }
